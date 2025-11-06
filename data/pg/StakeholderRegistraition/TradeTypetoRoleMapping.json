@@ -363,7 +363,7 @@
     {
     "id": "57b66c2a-0033-4875-a3bd-856e5cf82431",
     "tradeType": "GEOTECH_ENGINEER",
-    "role": ["BPA_GEOTECH_ENGINEER"],
+    "role": ["BPA_GEO_TECH_ENGINEER"],
     "endstate": "APPROVED",
     "applicationFee": 500,
     "docTypes": [
