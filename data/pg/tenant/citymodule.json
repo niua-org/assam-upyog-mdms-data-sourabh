@@ -1116,7 +1116,7 @@
           "code": "pg.sariahtoali"
         },
         {
-          "code": "pg.nalbarimb"
+          "code": "pg.nalbarigp"
         },
         {
           "code": "pg.chandakuchi"
@@ -1134,7 +1134,7 @@
           "code": "pg.dakshinnalbari"
         },
         {
-          "code": "pg.42noupperbarbhagkhata"
+          "code": "pg.upperbarbhagkhata"
         },
         {
           "code": "pg.uttarpubkhata"
@@ -1146,10 +1146,10 @@
           "code": "pg.digheli"
         },
         {
-          "code": "pg.41nonatundehar"
+          "code": "pg.natundehar"
         },
         {
-          "code": "pg.23nopanigaon"
+          "code": "pg.panigaon"
         },
         {
           "code": "pg.ghograpar"
@@ -1167,7 +1167,7 @@
           "code": "pg.dihjari"
         },
         {
-          "code": "pg.barpetamb"
+          "code": "pg.barpetagp"
         },
         {
           "code": "pg.patbaushigp"
@@ -1242,7 +1242,7 @@
           "code": "pg.kololuwa"
         },
         {
-          "code": "pg.tinsukiamb"
+          "code": "pg.tinsukiagp"
         },
         {
           "code": "pg.rongpuria"
@@ -1296,9 +1296,6 @@
           "code": "pg.ambikapurgp"
         },
         {
-          "code": "pg.5noghungoorgp"
-        },
-        {
           "code": "pg.bhanjantipurgp"
         },
         {
@@ -1320,7 +1317,10 @@
           "code": "pg.tupkhanagp"
         },
         {
-          "code": "pg.107noghoungoorgp"
+          "code": "pg.ghoungoorgp"
+        },
+        {
+          "code": "pg.ghungoorgp"
         },
         {
           "code": "pg.bhorakhaigp"

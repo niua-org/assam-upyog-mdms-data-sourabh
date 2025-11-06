@@ -702,9 +702,9 @@
       }
     },
     {
-      "code": "pg.nalbarimb",
-      "name": "Nalbari MB",
-      "description": "Nalbari MB",
+      "code": "pg.nalbarigp",
+      "name": "Nalbari GP",
+      "description": "Nalbari GP",
       "pincode": [
         783270
       ],
@@ -722,7 +722,7 @@
       "address": null,
       "contactNumber": null,
       "city": {
-        "name": "Nalbari MB",
+        "name": "Nalbari GP",
         "localName": null,
         "districtName": null,
         "regionName": null,
@@ -731,10 +731,10 @@
         "latitude": 26.849349,
         "shapeFileLocation": null,
         "captcha": null,
-        "districtCode": "NALBARI_MB",
-        "districtTenantCode": "pg.nalbarimb",
+        "districtCode": "NALBARI_GP",
+        "districtTenantCode": "pg.nalbarigp",
         "code": "1603",
-        "ddrName": "Nalbari MB Municipal Corporation"
+        "ddrName": "Nalbari GP Municipal Corporation"
       }
     },
     {
@@ -774,7 +774,7 @@
       }
     },
     {
-      "code": "pg.37nouttarpubdharmapur",
+      "code": "pg.uttarpubdharmapur",
       "name": "37 No. Uttar Pub Dharmapur",
       "description": "37 No. Uttar Pub Dharmapur",
       "pincode": [
@@ -787,7 +787,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "info.37nouttarpubdharmapur@gmail.com",
+      "emailId": "info.uttarpubdharmapur@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -804,7 +804,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "districtCode": "37_NO_UTTAR_PUB_DHARMAPUR",
-        "districtTenantCode": "pg.37nouttarpubdharmapur",
+        "districtTenantCode": "pg.uttarpubdharmapur",
         "code": "1605",
         "ddrName": "37 No. Uttar Pub Dharmapur Municipal Corporation"
       }
@@ -918,7 +918,7 @@
       }
     },
     {
-      "code": "pg.42noupperbarbhagkhata",
+      "code": "pg.upperbarbhagkhata",
       "name": "42 No. Upper Barbhag Khata",
       "description": "42 No. Upper Barbhag Khata",
       "pincode": [
@@ -931,7 +931,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "info.42noupperbarbhagkhata@gmail.com",
+      "emailId": "info.upperbarbhagkhata@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -948,7 +948,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "districtCode": "42_NO_UPPER_BARBHAG_KHATA",
-        "districtTenantCode": "pg.42noupperbarbhagkhata",
+        "districtTenantCode": "pg.upperbarbhagkhata",
         "code": "1609",
         "ddrName": "42 No. Upper Barbhag Khata Municipal Corporation"
       }
@@ -1062,7 +1062,7 @@
       }
     },
     {
-      "code": "pg.41nonatundehar",
+      "code": "pg.natundehar",
       "name": "41 No. Natun Dehar",
       "description": "41 No. Natun Dehar",
       "pincode": [
@@ -1075,7 +1075,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "info.41nonatundehar@gmail.com",
+      "emailId": "info.natundehar@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1092,13 +1092,13 @@
         "shapeFileLocation": null,
         "captcha": null,
         "districtCode": "41_NO_NATUN_DEHAR",
-        "districtTenantCode": "pg.41nonatundehar",
+        "districtTenantCode": "pg.natundehar",
         "code": "1613",
         "ddrName": "41 No. Natun Dehar Municipal Corporation"
       }
     },
     {
-      "code": "pg.23nopanigaon",
+      "code": "pg.panigaon",
       "name": "23 No. Panigaon",
       "description": "23 No. Panigaon",
       "pincode": [
@@ -1111,7 +1111,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "info.23nopanigaon@gmail.com",
+      "emailId": "info.panigaon@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -1128,7 +1128,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "districtCode": "23_NO_PANIGAON",
-        "districtTenantCode": "pg.23nopanigaon",
+        "districtTenantCode": "pg.panigaon",
         "code": "1614",
         "ddrName": "23 No. Panigaon Municipal Corporation"
       }
@@ -1314,9 +1314,9 @@
       }
     },
     {
-      "code": "pg.barpetamb",
-      "name": "Barpeta MB",
-      "description": "Barpeta MB",
+      "code": "pg.barpetagp",
+      "name": "Barpeta GP",
+      "description": "Barpeta GP",
       "pincode": [
         785466
       ],
@@ -1334,7 +1334,7 @@
       "address": null,
       "contactNumber": null,
       "city": {
-        "name": "Barpeta MB",
+        "name": "Barpeta GP",
         "localName": null,
         "districtName": null,
         "regionName": null,
@@ -1343,10 +1343,10 @@
         "latitude": 26.742782,
         "shapeFileLocation": null,
         "captcha": null,
-        "districtCode": "BARPETA_MB",
-        "districtTenantCode": "pg.barpetamb",
+        "districtCode": "BARPETA_GP",
+        "districtTenantCode": "pg.barpetagp",
         "code": "1620",
-        "ddrName": "Barpeta MB Municipal Corporation"
+        "ddrName": "Barpeta GP Municipal Corporation"
       }
     },
     {
@@ -2214,9 +2214,9 @@
       }
     },
     {
-      "code": "pg.tinsukiamb",
-      "name": "Tinsukia MB",
-      "description": "Tinsukia MB",
+      "code": "pg.tinsukiagp",
+      "name": "Tinsukia GP",
+      "description": "Tinsukia GP",
       "pincode": [
         781356
       ],
@@ -2234,7 +2234,7 @@
       "address": null,
       "contactNumber": null,
       "city": {
-        "name": "Tinsukia MB",
+        "name": "Tinsukia GP",
         "localName": null,
         "districtName": null,
         "regionName": null,
@@ -2243,10 +2243,10 @@
         "latitude": 26.260889,
         "shapeFileLocation": null,
         "captcha": null,
-        "districtCode": "TINSUKIA_MB",
-        "districtTenantCode": "pg.tinsukiamb",
+        "districtCode": "TINSUKIA_GP",
+        "districtTenantCode": "pg.tinsukiaGP",
         "code": "1645",
-        "ddrName": "Tinsukia MB Municipal Corporation"
+        "ddrName": "Tinsukia GP Municipal Corporation"
       }
     },
     {
@@ -2862,7 +2862,7 @@
       }
     },
     {
-      "code": "pg.5noghungoorgp",
+      "code": "pg.ghungoorgp",
       "name": "5 No Ghungoor GP",
       "description": "5 No Ghungoor GP",
       "pincode": [
@@ -2875,7 +2875,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "info.5noghungoorgp@gmail.com",
+      "emailId": "info.ghungoorgp@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -2892,7 +2892,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "districtCode": "5_NO_GHUNGOOR_GP",
-        "districtTenantCode": "pg.5noghungoorgp",
+        "districtTenantCode": "pg.ghungoorgp",
         "code": "1663",
         "ddrName": "5 No Ghungoor GP Municipal Corporation"
       }
@@ -3150,7 +3150,7 @@
       }
     },
     {
-      "code": "pg.107noghoungoorgp",
+      "code": "pg.ghoungoorgp",
       "name": "107 No. Ghoungoor GP",
       "description": "107 No. Ghoungoor GP",
       "pincode": [
@@ -3163,7 +3163,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "info.107noghoungoorgp@gmail.com",
+      "emailId": "info.ghoungoorgp@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
@@ -3180,7 +3180,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "districtCode": "107_NO_GHOUNGOOR_GP",
-        "districtTenantCode": "pg.107noghoungoorgp",
+        "districtTenantCode": "pg.ghoungoorgp",
         "code": "1671",
         "ddrName": "107 No. Ghoungoor GP Municipal Corporation"
       }

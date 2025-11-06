@@ -255,8 +255,8 @@
       ]
     },
     {
-      "code": "pg.nalbarimb",
-      "districtCode": "NALBARI_MB",
+      "code": "pg.nalbarigp",
+      "districtCode": "NALBARI_GP",
       "population": "4709",
       "malePopulation": "2327",
       "femalePopulation": "2382",
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "code": "pg.37nouttarpubdharmapur",
+      "code": "pg.uttarpubdharmapur",
       "districtCode": "37_NO_UTTAR_PUB_DHARMAPUR",
       "population": "21062",
       "malePopulation": "10390",
@@ -339,7 +339,7 @@
       ]
     },
     {
-      "code": "pg.42noupperbarbhagkhata",
+      "code": "pg.upperbarbhagkhata",
       "districtCode": "42_NO_UPPER_BARBHAG_KHATA",
       "population": "6866",
       "malePopulation": "3425",
@@ -395,7 +395,7 @@
       ]
     },
     {
-      "code": "pg.41nonatundehar",
+      "code": "pg.natundehar",
       "districtCode": "41_NO_NATUN_DEHAR",
       "population": "32453",
       "malePopulation": "15771",
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "code": "pg.23nopanigaon",
+      "code": "pg.panigaon",
       "districtCode": "23_NO_PANIGAON",
       "population": "47594",
       "malePopulation": "23644",
@@ -493,8 +493,8 @@
       ]
     },
     {
-      "code": "pg.barpetamb",
-      "districtCode": "BARPETA_MB",
+      "code": "pg.barpetagp",
+      "districtCode": "BARPETA_GP",
       "population": "49905",
       "malePopulation": "26250",
       "femalePopulation": "23655",
@@ -843,8 +843,8 @@
       ]
     },
     {
-      "code": "pg.tinsukiamb",
-      "districtCode": "TINSUKIA_MB",
+      "code": "pg.tinsukiagp",
+      "districtCode": "TINSUKIA_GP",
       "population": "47830",
       "malePopulation": "25308",
       "femalePopulation": "22522",
@@ -1095,7 +1095,7 @@
       ]
     },
     {
-      "code": "pg.5noghungoorgp",
+      "code": "pg.ghungoorgp",
       "districtCode": "5_NO_GHUNGOOR_GP",
       "population": "44814",
       "malePopulation": "23591",
@@ -1207,7 +1207,7 @@
       ]
     },
     {
-      "code": "pg.107noghoungoorgp",
+      "code": "pg.ghoungoorgp",
       "districtCode": "107_NO_GHOUNGOOR_GP",
       "population": "36308",
       "malePopulation": "18543",
