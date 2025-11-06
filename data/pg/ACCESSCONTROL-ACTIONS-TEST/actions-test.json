@@ -21493,6 +21493,18 @@
          "serviceCode": "",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3078,
+         "name": "BPA Payment search",
+         "url": "/collection-services/payments/BPA.BUILDING_PERMIT_FEE/_search",
+         "displayName": "BPA Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
       }
   ]
 }

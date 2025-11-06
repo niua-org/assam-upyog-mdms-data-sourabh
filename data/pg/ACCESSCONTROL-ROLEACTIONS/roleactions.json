@@ -32835,6 +32835,18 @@
       "actionid": 3077,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "BPA_APPROVER",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
