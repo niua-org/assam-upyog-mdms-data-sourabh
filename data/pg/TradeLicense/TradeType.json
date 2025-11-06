@@ -6137,6 +6137,84 @@
         "maxBulidingheight":10,
         "maxFloors":2
       }
+      },
+      {
+    "code": "BPA_GEO_TECH_ENGINEER",
+    "uom": null,
+    "applicationDocument": [
+      "OWNERIDPROOF",
+      "OWNERSHIPPROOF",
+      "EXPERIENCEPROOF"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "BPA",
+    "validityPeriod": 5
+  },
+  {
+    "code": "BPA_CIVIL_ENGINEER",
+    "uom": null,
+    "applicationDocument": [
+      "OWNERIDPROOF",
+      "OWNERSHIPPROOF",
+      "EXPERIENCEPROOF"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "BPA",
+    "validityPeriod": 5
+  },
+  {
+    "code": "BPA_UTILITY_SERVICE_ENGINEER",
+    "uom": null,
+    "applicationDocument": [
+      "OWNERIDPROOF",
+      "OWNERSHIPPROOF",
+      "EXPERIENCEPROOF"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "BPA",
+    "validityPeriod": 5
+  },
+  {
+    "code": "BPA_LANDSCAPE_ARCHITECT",
+    "uom": null,
+    "applicationDocument": [
+      "OWNERIDPROOF",
+      "OWNERSHIPPROOF",
+      "EXPERIENCEPROOF"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "BPA",
+    "validityPeriod": 5
+  },
+  {
+    "code": "BPA_GROUP_AGENCY",
+    "uom": null,
+    "applicationDocument": [
+      "OWNERIDPROOF",
+      "OWNERSHIPPROOF",
+      "EXPERIENCEPROOF"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "BPA",
+    "validityPeriod": 5
+  },
+  {
+    "code": "BPA_URBAN_DESIGNER",
+    "uom": null,
+    "applicationDocument": [
+      "OWNERIDPROOF",
+      "OWNERSHIPPROOF",
+      "EXPERIENCEPROOF"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "BPA",
+    "validityPeriod": 5
     }
   ]
 }
