@@ -21505,6 +21505,17 @@
          "serviceCode": "",
          "code": "null",
          "path": ""
-      }
+      },
+	  {
+      "id": 3079,
+      "name": "Requester Service Logout Data",
+      "url": "/requester-services-dx/epramaan/getlogoutdata",
+      "displayName": "Requester Service Logout Data",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "requester-services-dx",
+      "code": "null",
+      "path": ""
+    }
   ]
 }

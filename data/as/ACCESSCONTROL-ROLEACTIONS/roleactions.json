@@ -32847,6 +32847,12 @@
       "actionid": 3078,
       "actioncode": "",
       "tenantId": "as"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 3079,
+      "actioncode": "",
+      "tenantId": "as"
     }
   ]
 }
