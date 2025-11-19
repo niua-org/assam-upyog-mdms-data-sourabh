@@ -21531,7 +21531,7 @@
    {
       "id": 3081,
       "name": "Validate Property by TIN",
-      "url": "/bpa-services/v1/property/validate/{propertyId}",
+      "url": "/bpa-services/v1/property/validate",
       "displayName": "Validate Property",
       "orderNumber": 1,
       "enabled": false,
