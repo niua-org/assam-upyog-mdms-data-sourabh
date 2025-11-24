@@ -11,7 +11,7 @@
             "active": true
         },
         {
-            "gateway": "HDFC",
+            "gateway": "RAZORPAY",
             "active": true
         }
     ]
