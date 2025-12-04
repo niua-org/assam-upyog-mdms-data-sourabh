@@ -1,7 +1,8 @@
 {
   "tenantId": "as",
   "moduleName": "egov-location",
-  "egov-location": {
+  "egov-location": [
+    {
     "districts": [
       {
         "id": 1,
@@ -184,5 +185,5 @@
         ]
       }
     ]
-  }
+  }]
 }
