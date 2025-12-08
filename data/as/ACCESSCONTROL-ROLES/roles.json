@@ -991,6 +991,11 @@
       "code": "AAI_NOC",
       "name": "AAI NOC admin employee",
       "description": "AAI admin Employee"
+    },
+    {
+      "code": "SOIL_TEST_APPROVER",
+      "name": "Soil Test Approver",
+      "description": "Soil Test Approver"
     }
   ]
 }

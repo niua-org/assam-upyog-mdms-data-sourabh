@@ -191,6 +191,11 @@
       "name": "Tender Cell",
       "code": "DEPT_57",
       "active": true
+    },
+    {
+      "name": "Soil Test Department",
+      "code": "SOIL_TEST_DEPT",
+      "active": true
     }
   ]
 }

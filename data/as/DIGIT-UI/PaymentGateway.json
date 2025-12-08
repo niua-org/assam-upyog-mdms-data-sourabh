@@ -4,11 +4,11 @@
     "PaymentGateway": [
         {
             "gateway": "PAYGOV",
-            "active": true
+            "active": false
         },
         {
             "gateway": "NTTDATA",
-            "active": true
+            "active": false
         },
         {
             "gateway": "RAZORPAY",
