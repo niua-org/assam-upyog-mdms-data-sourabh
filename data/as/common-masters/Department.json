@@ -193,8 +193,8 @@
       "active": true
     },
     {
-      "name": "Soil Department",
-      "code": "SOIL_DEPT",
+      "name": "Soil Test Department",
+      "code": "SOIL_TEST_DEPT",
       "active": true
     }
   ]
