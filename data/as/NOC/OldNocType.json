@@ -1,7 +1,7 @@
 {
   "tenantId": "as",
   "moduleName": "NOC",
-  "NocType": [
+  "OldNocType": [
      {
        "code": "FIRE_NOC",
        "isActive": true,

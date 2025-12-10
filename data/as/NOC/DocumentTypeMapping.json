@@ -71,6 +71,56 @@
                     "required": true
                 }
             ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "CIVIL_AVIATION",
+            "docTypes": [
+                {
+                    "documentType": "NOC.UNDERTAKING1A",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "CIVIL_AVIATION",
+            "docTypes": [
+                {
+                    "documentType": "NOC.SITEELEVATION",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "CIVIL_AVIATION",
+            "docTypes": [
+                {
+                    "documentType": "NOC.SITECORDINATES",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "CIVIL_AVIATION",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AUTHORIZATION",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "CIVIL_AVIATION",
+            "docTypes": [
+                {
+                    "documentType": "NOC.PERMISSION",
+                    "required": true
+                }
+            ]
         }
     ]
 }
