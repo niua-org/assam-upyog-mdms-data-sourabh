@@ -51,7 +51,7 @@
       "city": {
         "name": "Nalbari",
         "districtCode": "NALBARI",
-        "districtName": null,
+        "districtName": "Nalbari",
         "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "ulbGrade": "MUNICIPAL_BOARD",
@@ -75,7 +75,7 @@
       "city": {
         "name": "Barpeta",
         "districtCode": "BARPETA",
-        "districtName": null,
+        "districtName": "Barpeta",
         "districtTenantCode": "as.barpetamb",
         "planningAreaCode": "BARPETA_MP",
         "ulbGrade": "MUNICIPAL_BOARD",
@@ -98,8 +98,8 @@
       "emailId": "complaints.mcj@gmail.com",
       "city": {
         "name": "Dibrugarh",
+        "districtName": "Dibrugarh",
         "districtCode": "DIBRUGARH",
-        "districtName": null,
         "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "ulbGrade": "MUNICIPAL_BOARD",
@@ -122,8 +122,8 @@
       "emailId": "complaints.mcj@gmail.com",
       "city": {
         "name": "Tinsukia",
+        "districtName": "Tinsukia",
         "districtCode": "TINSUKIA",
-        "districtName": null,
         "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "ulbGrade": "MUNICIPAL_BOARD",
@@ -146,8 +146,8 @@
       "emailId": "complaints.mcj@gmail.com",
       "city": {
         "name": "Silchar",
-        "districtCode": "SILCHAR",
-        "districtName": null,
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
         "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "ulbGrade": "MUNICIPAL_BOARD",
@@ -167,10 +167,10 @@
       "emailId": "info.pubbahjani@gmail.com",
       "city": {
         "name": "Pub-Bahjani",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "PUB_BAHJANI",
-        "districtTenantCode": "as.pubbahjani",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1600",
         "ddrName": "Pub-Bahjani Gram Panchayat"
@@ -188,10 +188,10 @@
       "emailId": "info.balitarabatahgila@gmail.com",
       "city": {
         "name": "Balitara Batahgila",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BALITARA_BATAHGILA",
-        "districtTenantCode": "as.balitarabatahgila",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1601",
         "ddrName": "Balitara Batahgila Gram Panchayat"
@@ -209,10 +209,10 @@
       "emailId": "info.sariahtoali@gmail.com",
       "city": {
         "name": "Sariahtoali",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "SARIAHTOALI",
-        "districtTenantCode": "as.sariahtoali",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1602",
         "ddrName": "Sariahtoali Gram Panchayat"
@@ -230,10 +230,10 @@
       "emailId": "info.nalbarimb@gmail.com",
       "city": {
         "name": "Nalbari GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "NALBARI_GP",
-        "districtTenantCode": "as.nalbarigp",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1603",
         "ddrName": "Nalbari GP Gram Panchayat"
@@ -251,10 +251,10 @@
       "emailId": "info.chandakuchi@gmail.com",
       "city": {
         "name": "Chandakuchi",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "CHANDAKUCHI",
-        "districtTenantCode": "as.chandakuchi",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1604",
         "ddrName": "Chandakuchi Gram Panchayat"
@@ -272,10 +272,10 @@
       "emailId": "info.uttarpubdharmapur@gmail.com",
       "city": {
         "name": "37 No. Uttar Pub Dharmapur",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "37_NO_UTTAR_PUB_DHARMAPUR",
-        "districtTenantCode": "as.uttarpubdharmapur",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1605",
         "ddrName": "37 No. Uttar Pub Dharmapur Gram Panchayat"
@@ -293,10 +293,10 @@
       "emailId": "info.madhyabahjani@gmail.com",
       "city": {
         "name": "Madhya Bahjani",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "MADHYA_BAHJANI",
-        "districtTenantCode": "as.madhyabahjani",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1606",
         "ddrName": "Madhya Bahjani Gram Panchayat"
@@ -314,10 +314,10 @@
       "emailId": "info.hatinamati@gmail.com",
       "city": {
         "name": "Hati Namati",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "HATI_NAMATI",
-        "districtTenantCode": "as.hatinamati",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1607",
         "ddrName": "Hati Namati Gram Panchayat"
@@ -335,10 +335,10 @@
       "emailId": "info.dakshinnalbari@gmail.com",
       "city": {
         "name": "Dakshin Nalbari",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "DAKSHIN_NALBARI",
-        "districtTenantCode": "as.dakshinnalbari",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1608",
         "ddrName": "Dakshin Nalbari Gram Panchayat"
@@ -356,10 +356,10 @@
       "emailId": "info.upperbarbhagkhata@gmail.com",
       "city": {
         "name": "42 No. Upper Barbhag Khata",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "42_NO_UPPER_BARBHAG_KHATA",
-        "districtTenantCode": "as.upperbarbhagkhata",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1609",
         "ddrName": "42 No. Upper Barbhag Khata Gram Panchayat"
@@ -377,10 +377,10 @@
       "emailId": "info.uttarpubkhata@gmail.com",
       "city": {
         "name": "Uttar Pub-Khata",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "UTTAR_PUB_KHATA",
-        "districtTenantCode": "as.uttarpubkhata",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1610",
         "ddrName": "Uttar Pub-Khata Gram Panchayat"
@@ -398,10 +398,10 @@
       "emailId": "info.pubnalbari@gmail.com",
       "city": {
         "name": "Pub-Nalbari",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "PUB_NALBARI",
-        "districtTenantCode": "as.pubnalbari",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1611",
         "ddrName": "Pub-Nalbari Gram Panchayat"
@@ -419,10 +419,10 @@
       "emailId": "info.digheli@gmail.com",
       "city": {
         "name": "Digheli",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "DIGHELI",
-        "districtTenantCode": "as.digheli",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1612",
         "ddrName": "Digheli Gram Panchayat"
@@ -440,10 +440,10 @@
       "emailId": "info.natundehar@gmail.com",
       "city": {
         "name": "41 No. Natun Dehar",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "41_NO_NATUN_DEHAR",
-        "districtTenantCode": "as.natundehar",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1613",
         "ddrName": "41 No. Natun Dehar Gram Panchayat"
@@ -461,10 +461,10 @@
       "emailId": "info.panigaon@gmail.com",
       "city": {
         "name": "23 No. Panigaon",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "23_NO_PANIGAON",
-        "districtTenantCode": "as.panigaon",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1614",
         "ddrName": "23 No. Panigaon Gram Panchayat"
@@ -482,10 +482,10 @@
       "emailId": "info.ghograpar@gmail.com",
       "city": {
         "name": "Ghograpar",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "GHOGRAPAR",
-        "districtTenantCode": "as.ghograpar",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1615",
         "ddrName": "Ghograpar Gram Panchayat"
@@ -503,10 +503,10 @@
       "emailId": "info.silpotaborilatima@gmail.com",
       "city": {
         "name": "Silpotabori-Latima",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "SILPOTABORI_LATIMA",
-        "districtTenantCode": "as.silpotaborilatima",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1616",
         "ddrName": "Silpotabori-Latima Gram Panchayat"
@@ -524,10 +524,10 @@
       "emailId": "info.barajol@gmail.com",
       "city": {
         "name": "Barajol",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BARAJOL",
-        "districtTenantCode": "as.barajol",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1618",
         "ddrName": "Barajol Gram Panchayat"
@@ -545,10 +545,10 @@
       "emailId": "info.dihjari@gmail.com",
       "city": {
         "name": "Dihjari",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "DIHJARI",
-        "districtTenantCode": "as.dihjari",
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "districtTenantCode": "as.nalbarimb",
         "planningAreaCode": "NALBARI_MP",
         "code": "1619",
         "ddrName": "Dihjari Gram Panchayat"
@@ -566,10 +566,10 @@
       "emailId": "info.barpetamb@gmail.com",
       "city": {
         "name": "Barpeta GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BARPETA_GP",
-        "districtTenantCode": "as.barpetagp",
+        "districtCode": "BARPETA",
+        "districtName": "Barpeta",
+        "districtTenantCode": "as.barpetamb",
         "planningAreaCode": "BARPETA_MP",
         "code": "1620",
         "ddrName": "Barpeta GP Gram Panchayat"
@@ -587,10 +587,10 @@
       "emailId": "info.patbaushigp@gmail.com",
       "city": {
         "name": "Patbaushi GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "PATBAUSHI_GP",
-        "districtTenantCode": "as.patbaushigp",
+        "districtCode": "BARPETA",
+        "districtName": "Barpeta",
+        "districtTenantCode": "as.barpetamb",
         "planningAreaCode": "BARPETA_MP",
         "code": "1621",
         "ddrName": "Patbaushi GP Gram Panchayat"
@@ -608,10 +608,10 @@
       "emailId": "info.sundaridiagp@gmail.com",
       "city": {
         "name": "Sundaridia GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "SUNDARIDIA_GP",
-        "districtTenantCode": "as.sundaridiagp",
+        "districtCode": "BARPETA",
+        "districtName": "Barpeta",
+        "districtTenantCode": "as.barpetamb",
         "planningAreaCode": "BARPETA_MP",
         "code": "1622",
         "ddrName": "Sundaridia GP Gram Panchayat"
@@ -629,10 +629,10 @@
       "emailId": "info.rajabheta@gmail.com",
       "city": {
         "name": "Rajabheta",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "RAJABHETA",
-        "districtTenantCode": "as.rajabheta",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1623",
         "ddrName": "Rajabheta Gram Panchayat"
@@ -650,10 +650,10 @@
       "emailId": "info.nizmankotta@gmail.com",
       "city": {
         "name": "Niz-Mankotta",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "NIZ_MANKOTTA",
-        "districtTenantCode": "as.nizmankotta",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1624",
         "ddrName": "Niz-Mankotta Gram Panchayat"
@@ -671,10 +671,10 @@
       "emailId": "info.hiloidhari@gmail.com",
       "city": {
         "name": "Hiloidhari",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "HILOIDHARI",
-        "districtTenantCode": "as.hiloidhari",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1625",
         "ddrName": "Hiloidhari Gram Panchayat"
@@ -692,10 +692,10 @@
       "emailId": "info.mankottakhanikar@gmail.com",
       "city": {
         "name": "Mankotta Khanikar",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "MANKOTTA_KHANIKAR",
-        "districtTenantCode": "as.mankottakhanikar",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1626",
         "ddrName": "Mankotta Khanikar Gram Panchayat"
@@ -713,10 +713,10 @@
       "emailId": "info.romai@gmail.com",
       "city": {
         "name": "Romai",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "ROMAI",
-        "districtTenantCode": "as.romai",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1627",
         "ddrName": "Romai Gram Panchayat"
@@ -734,10 +734,10 @@
       "emailId": "info.timona@gmail.com",
       "city": {
         "name": "Timona",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "TIMONA",
-        "districtTenantCode": "as.timona",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1628",
         "ddrName": "Timona Gram Panchayat"
@@ -755,10 +755,10 @@
       "emailId": "info.mohanbari@gmail.com",
       "city": {
         "name": "Mohanbari",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "MOHANBARI",
-        "districtTenantCode": "as.mohanbari",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1629",
         "ddrName": "Mohanbari Gram Panchayat"
@@ -776,10 +776,10 @@
       "emailId": "info.bokul@gmail.com",
       "city": {
         "name": "Bokul",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BOKUL",
-        "districtTenantCode": "as.bokul",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1630",
         "ddrName": "Bokul Gram Panchayat"
@@ -797,10 +797,10 @@
       "emailId": "info.maijan@gmail.com",
       "city": {
         "name": "Maijan",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "MAIJAN",
-        "districtTenantCode": "as.maijan",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1631",
         "ddrName": "Maijan Gram Panchayat"
@@ -818,10 +818,10 @@
       "emailId": "info.nizkanai@gmail.com",
       "city": {
         "name": "Niz Kanai",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "NIZ_KANAI",
-        "districtTenantCode": "as.nizkanai",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1632",
         "ddrName": "Niz Kanai Gram Panchayat"
@@ -839,10 +839,10 @@
       "emailId": "info.moderkhat@gmail.com",
       "city": {
         "name": "Moderkhat",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "MODERKHAT",
-        "districtTenantCode": "as.moderkhat",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1633",
         "ddrName": "Moderkhat Gram Panchayat"
@@ -860,10 +860,10 @@
       "emailId": "info.lahowal@gmail.com",
       "city": {
         "name": "Lahowal",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "LAHOWAL",
-        "districtTenantCode": "as.lahowal",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1634",
         "ddrName": "Lahowal Gram Panchayat"
@@ -881,10 +881,10 @@
       "emailId": "info.kotoha@gmail.com",
       "city": {
         "name": "Kotoha",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "KOTOHA",
-        "districtTenantCode": "as.kotoha",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1635",
         "ddrName": "Kotoha Gram Panchayat"
@@ -902,10 +902,10 @@
       "emailId": "info.borpothar@gmail.com",
       "city": {
         "name": "Borpothar",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BORPOTHAR",
-        "districtTenantCode": "as.borpothar",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1636",
         "ddrName": "Borpothar Gram Panchayat"
@@ -923,10 +923,10 @@
       "emailId": "info.jokai@gmail.com",
       "city": {
         "name": "Jokai",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "JOKAI",
-        "districtTenantCode": "as.jokai",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1637",
         "ddrName": "Jokai Gram Panchayat"
@@ -944,10 +944,10 @@
       "emailId": "info.lejai@gmail.com",
       "city": {
         "name": "Lejai",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "LEJAI",
-        "districtTenantCode": "as.lejai",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1638",
         "ddrName": "Lejai Gram Panchayat"
@@ -965,10 +965,10 @@
       "emailId": "info.duliakakoti@gmail.com",
       "city": {
         "name": "Dulia Kakoti",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "DULIA_KAKOTI",
-        "districtTenantCode": "as.duliakakoti",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1639",
         "ddrName": "Dulia Kakoti Gram Panchayat"
@@ -986,10 +986,10 @@
       "emailId": "info.barbarua@gmail.com",
       "city": {
         "name": "Barbarua",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BARBARUA",
-        "districtTenantCode": "as.barbarua",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1640",
         "ddrName": "Barbarua Gram Panchayat"
@@ -1007,10 +1007,10 @@
       "emailId": "info.kalakhowa@gmail.com",
       "city": {
         "name": "Kalakhowa",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "KALAKHOWA",
-        "districtTenantCode": "as.kalakhowa",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1641",
         "ddrName": "Kalakhowa Gram Panchayat"
@@ -1028,10 +1028,10 @@
       "emailId": "info.garudhoria@gmail.com",
       "city": {
         "name": "Garudhoria",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "GARUDHORIA",
-        "districtTenantCode": "as.garudhoria",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1642",
         "ddrName": "Garudhoria Gram Panchayat"
@@ -1049,10 +1049,10 @@
       "emailId": "info.bogibeel@gmail.com",
       "city": {
         "name": "Bogibeel",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BOGIBEEL",
-        "districtTenantCode": "as.bogibeel",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1643",
         "ddrName": "Bogibeel Gram Panchayat"
@@ -1070,10 +1070,10 @@
       "emailId": "info.kololuwa@gmail.com",
       "city": {
         "name": "Kololuwa",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "KOLOLUWA",
-        "districtTenantCode": "as.kololuwa",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1644",
         "ddrName": "Kololuwa Gram Panchayat"
@@ -1091,10 +1091,10 @@
       "emailId": "info.tinsukiamb@gmail.com",
       "city": {
         "name": "Tinsukia GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "TINSUKIA_GP",
-        "districtTenantCode": "as.tinsukiaGP",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1645",
         "ddrName": "Tinsukia GP Gram Panchayat"
@@ -1112,10 +1112,10 @@
       "emailId": "info.rongpuria@gmail.com",
       "city": {
         "name": "Rongpuria",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "RONGPURIA",
-        "districtTenantCode": "as.rongpuria",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1646",
         "ddrName": "Rongpuria Gram Panchayat"
@@ -1133,10 +1133,10 @@
       "emailId": "info.borguri@gmail.com",
       "city": {
         "name": "Borguri",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BORGURI",
-        "districtTenantCode": "as.borguri",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1647",
         "ddrName": "Borguri Gram Panchayat"
@@ -1154,10 +1154,10 @@
       "emailId": "info.bojaltoli@gmail.com",
       "city": {
         "name": "Bojaltoli",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BOJALTOLI",
-        "districtTenantCode": "as.bojaltoli",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1648",
         "ddrName": "Bojaltoli Gram Panchayat"
@@ -1175,10 +1175,10 @@
       "emailId": "info.itakhulichariali@gmail.com",
       "city": {
         "name": "Itakhuli Chariali",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "ITAKHULI_CHARIALI",
-        "districtTenantCode": "as.itakhulichariali",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1649",
         "ddrName": "Itakhuli Chariali Gram Panchayat"
@@ -1196,10 +1196,10 @@
       "emailId": "info.laipuli@gmail.com",
       "city": {
         "name": "Laipuli",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "LAIPULI",
-        "districtTenantCode": "as.laipuli",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1650",
         "ddrName": "Laipuli Gram Panchayat"
@@ -1217,10 +1217,10 @@
       "emailId": "info.dimaruguri@gmail.com",
       "city": {
         "name": "Dimaruguri",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "DIMARUGURI",
-        "districtTenantCode": "as.dimaruguri",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1651",
         "ddrName": "Dimaruguri Gram Panchayat"
@@ -1238,10 +1238,10 @@
       "emailId": "info.bapuji@gmail.com",
       "city": {
         "name": "Bapuji",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BAPUJI",
-        "districtTenantCode": "as.bapuji",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1652",
         "ddrName": "Bapuji Gram Panchayat"
@@ -1259,10 +1259,10 @@
       "emailId": "info.gottong@gmail.com",
       "city": {
         "name": "Gottong",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "GOTTONG",
-        "districtTenantCode": "as.gottong",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1653",
         "ddrName": "Gottong Gram Panchayat"
@@ -1280,10 +1280,10 @@
       "emailId": "info.panitola@gmail.com",
       "city": {
         "name": "Panitola",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "PANITOLA",
-        "districtTenantCode": "as.panitola",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1654",
         "ddrName": "Panitola Gram Panchayat"
@@ -1301,10 +1301,10 @@
       "emailId": "info.barekuri@gmail.com",
       "city": {
         "name": "Barekuri",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BAREKURI",
-        "districtTenantCode": "as.barekuri",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1655",
         "ddrName": "Barekuri Gram Panchayat"
@@ -1322,10 +1322,10 @@
       "emailId": "info.tengapani@gmail.com",
       "city": {
         "name": "Tengapani",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "TENGAPANI",
-        "districtTenantCode": "as.tengapani",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1656",
         "ddrName": "Tengapani Gram Panchayat"
@@ -1343,10 +1343,10 @@
       "emailId": "info.hapjan@gmail.com",
       "city": {
         "name": "Hapjan",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "HAPJAN",
-        "districtTenantCode": "as.hapjan",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1657",
         "ddrName": "Hapjan Gram Panchayat"
@@ -1364,10 +1364,10 @@
       "emailId": "info.jerai@gmail.com",
       "city": {
         "name": "Jerai",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "JERAI",
-        "districtTenantCode": "as.jerai",
+        "districtName": "Tinsukia",
+        "districtCode": "TINSUKIA",
+        "districtTenantCode": "as.tinsukiamb",
         "planningAreaCode": "TINSUKIA_MP",
         "code": "1658",
         "ddrName": "Jerai Gram Panchayat"
@@ -1385,10 +1385,10 @@
       "emailId": "info.madhurbondgp@gmail.com",
       "city": {
         "name": "Madhur Bond GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "MADHUR_BOND_GP",
-        "districtTenantCode": "as.madhurbondgp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1659",
         "ddrName": "Madhur Bond GP Gram Panchayat"
@@ -1406,10 +1406,10 @@
       "emailId": "info.berengagp@gmail.com",
       "city": {
         "name": "Berenga- GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BERENGA__GP",
-        "districtTenantCode": "as.berengagp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1660",
         "ddrName": "Berenga- GP Gram Panchayat"
@@ -1427,10 +1427,10 @@
       "emailId": "info.bhagadharbarjuraigp@gmail.com",
       "city": {
         "name": "Bhagadhar Barjurai GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BHAGADHAR_BARJURAI_GP",
-        "districtTenantCode": "as.bhagadharbarjuraigp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1661",
         "ddrName": "Bhagadhar Barjurai GP Gram Panchayat"
@@ -1448,10 +1448,10 @@
       "emailId": "info.ambikapurgp@gmail.com",
       "city": {
         "name": "Ambikapur GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "AMBIKAPUR_GP",
-        "districtTenantCode": "as.ambikapurgp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1662",
         "ddrName": "Ambikapur GP Gram Panchayat"
@@ -1469,10 +1469,10 @@
       "emailId": "info.ghungoorgp@gmail.com",
       "city": {
         "name": "5 No Ghungoor GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "5_NO_GHUNGOOR_GP",
-        "districtTenantCode": "as.ghungoorgp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1663",
         "ddrName": "5 No Ghungoor GP Gram Panchayat"
@@ -1490,10 +1490,10 @@
       "emailId": "info.bhanjantipurgp@gmail.com",
       "city": {
         "name": "Bhanjantipur GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BHANJANTIPUR_GP",
-        "districtTenantCode": "as.bhanjantipurgp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1664",
         "ddrName": "Bhanjantipur GP Gram Panchayat"
@@ -1511,10 +1511,10 @@
       "emailId": "info.meherpurgp@gmail.com",
       "city": {
         "name": "Meherpur GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "MEHERPUR_GP",
-        "districtTenantCode": "as.meherpurgp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1665",
         "ddrName": "Meherpur GP Gram Panchayat"
@@ -1532,10 +1532,10 @@
       "emailId": "info.kanakpurgp@gmail.com",
       "city": {
         "name": "Kanakpur GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "KANAKPUR_GP",
-        "districtTenantCode": "as.kanakpurgp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1666",
         "ddrName": "Kanakpur GP Gram Panchayat"
@@ -1553,10 +1553,10 @@
       "emailId": "info.rongpurgp@gmail.com",
       "city": {
         "name": "Rongpur GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "RONGPUR_GP",
-        "districtTenantCode": "as.rongpurgp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1667",
         "ddrName": "Rongpur GP Gram Panchayat"
@@ -1574,10 +1574,10 @@
       "emailId": "info.uttarkrishnapurgp@gmail.com",
       "city": {
         "name": "Uttar Krishnapur GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "UTTAR_KRISHNAPUR_GP",
-        "districtTenantCode": "as.uttarkrishnapurgp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1668",
         "ddrName": "Uttar Krishnapur GP Gram Panchayat"
@@ -1595,10 +1595,10 @@
       "emailId": "info.dakshinkrishnapurgp@gmail.com",
       "city": {
         "name": "Dakshin Krishnapur GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "DAKSHIN_KRISHNAPUR_GP",
-        "districtTenantCode": "as.dakshinkrishnapurgp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1669",
         "ddrName": "Dakshin Krishnapur GP Gram Panchayat"
@@ -1616,10 +1616,10 @@
       "emailId": "info.tupkhanagp@gmail.com",
       "city": {
         "name": "Tupkhana GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "TUPKHANA_GP",
-        "districtTenantCode": "as.tupkhanagp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1670",
         "ddrName": "Tupkhana GP Gram Panchayat"
@@ -1637,10 +1637,10 @@
       "emailId": "info.ghoungoorgp@gmail.com",
       "city": {
         "name": "107 No. Ghoungoor GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "107_NO_GHOUNGOOR_GP",
-        "districtTenantCode": "as.ghoungoorgp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1671",
         "ddrName": "107 No. Ghoungoor GP Gram Panchayat"
@@ -1658,10 +1658,10 @@
       "emailId": "info.bhorakhaigp@gmail.com",
       "city": {
         "name": "Bhorakhai GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BHORAKHAI_GP",
-        "districtTenantCode": "as.bhorakhaigp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1672",
         "ddrName": "Bhorakhai GP Gram Panchayat"
@@ -1679,10 +1679,10 @@
       "emailId": "info.tarutajabarigp@gmail.com",
       "city": {
         "name": "Tarutajabari GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "TARUTAJABARI_GP",
-        "districtTenantCode": "as.tarutajabarigp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1673",
         "ddrName": "Tarutajabari GP Gram Panchayat"
@@ -1700,10 +1700,10 @@
       "emailId": "info.chenkoorigp@gmail.com",
       "city": {
         "name": "Chenkoori GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "CHENKOORI_GP",
-        "districtTenantCode": "as.chenkoorigp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1674",
         "ddrName": "Chenkoori GP Gram Panchayat"
@@ -1721,10 +1721,10 @@
       "emailId": "info.rajnagargp@gmail.com",
       "city": {
         "name": "Rajnagar GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "RAJNAGAR_GP",
-        "districtTenantCode": "as.rajnagargp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1675",
         "ddrName": "Rajnagar GP Gram Panchayat"
@@ -1742,10 +1742,10 @@
       "emailId": "info.kumarparanizjoinagargp@gmail.com",
       "city": {
         "name": "Kumarpara Nizjoinagar GP",
-        "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "KUMARPARA_NIZJOINAGAR_GP",
-        "districtTenantCode": "as.kumarparanizjoinagargp",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1676",
         "ddrName": "Kumarpara Nizjoinagar GP Gram Panchayat"
