@@ -1,6 +1,6 @@
 {
   "tenantId": "as",
-  "moduleName": "BPA",
+  "moduleName": "NOC",
   "NocTypeMapping": [
     {
       "permitType": "Planning Permit",
